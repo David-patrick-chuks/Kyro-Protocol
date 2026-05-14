@@ -1,6 +1,7 @@
+<img width="1774" height="887" alt="ChatGPT Image May 14, 2026 at 05_29_14 AM" src="https://github.com/user-attachments/assets/6816e816-5a3d-4141-bc73-1ffa4579c10e" />
 
 # Kyro Protocol
-<img width="1774" height="887" alt="ChatGPT Image May 14, 2026 at 05_20_49 AM" src="https://github.com/user-attachments/assets/f41f4322-27e3-4937-803d-3c447882a267" />
+<!-- <img width="1774" height="887" alt="ChatGPT Image May 14, 2026 at 05_20_49 AM" src="https://github.com/user-attachments/assets/f41f4322-27e3-4937-803d-3c447882a267" /> -->
 
 ## Autonomous Agent Finance Infrastructure
 
