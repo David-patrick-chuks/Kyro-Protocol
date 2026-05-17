@@ -92,8 +92,8 @@ flowchart TD
 
 | Repo                   | Description                                                        |
 | ---------------------- | ------------------------------------------------------------------ |
-| [lily-frontend](#)     | Dashboard and developer-facing web application                     |
-| [lily-backend](#)      | Agent orchestration, wallet management, and payment services       |
-| [lily-contracts](#)    | Soroban smart contracts for settlement and AgentLily wallet infra  |
-| [lily-sdk](#)          | SDK for integrating autonomous payments into AI applications       |
-| [agentlily-runtime](#) | Runtime layer where AgentLily instances execute autonomous actions |
+| [lily-frontend](https://github.com/lily-protocol/lily-frontend)     | Dashboard and developer-facing web application                     |
+| [lily-backend](https://github.com/lily-protocol/lily-backend)      | Agent orchestration, wallet management, and payment services       |
+| [lily-contracts](https://github.com/lily-protocol/lily-contracts)    | Soroban smart contracts for settlement and AgentLily wallet infra  |
+| [lily-sdk](https://github.com/lily-protocol/lily-sdk)          | SDK for integrating autonomous payments into AI applications       |
+| [agentlily-runtime](https://github.com/lily-protocol/agentlily-runtime) | Runtime layer where AgentLily instances execute autonomous actions |
